@@ -1,0 +1,660 @@
+src/com/trucktracker/admin/Menus.java:12:	Each class should declare at least one constructor
+src/com/trucktracker/admin/Menus.java:12:	This class has too many methods, consider refactoring it.
+src/com/trucktracker/admin/Menus.java:12:	headerCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Menus.java:14:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Menus.java:14:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Menus.java:15:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Menus.java:15:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Menus.java:17:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Menus.java:17:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Menus.java:18:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Menus.java:18:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Menus.java:19:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Menus.java:19:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Menus.java:20:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Menus.java:20:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Menus.java:21:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Menus.java:21:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:23:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:26:	The String literal "Tahoma" appears 17 times in this file; the first occurrence is on line 26
+src/com/trucktracker/admin/Menus.java:31:	Avoid variables with short names like e
+src/com/trucktracker/admin/Menus.java:31:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Menus.java:31:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:33:	Local variable 'trucks' could be declared final
+src/com/trucktracker/admin/Menus.java:34:	Local variable 'mainpanel' could be declared final
+src/com/trucktracker/admin/Menus.java:35:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Menus.java:53:	Avoid variables with short names like e
+src/com/trucktracker/admin/Menus.java:53:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Menus.java:53:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:55:	Local variable 'truckers' could be declared final
+src/com/trucktracker/admin/Menus.java:56:	Local variable 'mainpanel' could be declared final
+src/com/trucktracker/admin/Menus.java:57:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Menus.java:75:	Avoid variables with short names like e
+src/com/trucktracker/admin/Menus.java:75:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Menus.java:75:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:77:	Local variable 'trucks' could be declared final
+src/com/trucktracker/admin/Menus.java:78:	Local variable 'mainpanel' could be declared final
+src/com/trucktracker/admin/Menus.java:79:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Menus.java:103:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:111:	Avoid variables with short names like e
+src/com/trucktracker/admin/Menus.java:111:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Menus.java:111:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:113:	Local variable 'trucks' could be declared final
+src/com/trucktracker/admin/Menus.java:114:	Local variable 'mainpanel' could be declared final
+src/com/trucktracker/admin/Menus.java:115:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Menus.java:133:	Avoid variables with short names like e
+src/com/trucktracker/admin/Menus.java:133:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Menus.java:133:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:135:	Local variable 'truckers' could be declared final
+src/com/trucktracker/admin/Menus.java:136:	Local variable 'mainpanel' could be declared final
+src/com/trucktracker/admin/Menus.java:137:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Menus.java:155:	Avoid variables with short names like e
+src/com/trucktracker/admin/Menus.java:155:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Menus.java:155:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:157:	Local variable 'trucks' could be declared final
+src/com/trucktracker/admin/Menus.java:158:	Local variable 'mainpanel' could be declared final
+src/com/trucktracker/admin/Menus.java:159:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Menus.java:179:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:187:	Avoid variables with short names like e
+src/com/trucktracker/admin/Menus.java:187:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Menus.java:187:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:189:	Local variable 'trucks' could be declared final
+src/com/trucktracker/admin/Menus.java:190:	Local variable 'mainpanel' could be declared final
+src/com/trucktracker/admin/Menus.java:191:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Menus.java:209:	Avoid variables with short names like e
+src/com/trucktracker/admin/Menus.java:209:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Menus.java:209:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:211:	Local variable 'truckers' could be declared final
+src/com/trucktracker/admin/Menus.java:212:	Local variable 'mainpanel' could be declared final
+src/com/trucktracker/admin/Menus.java:213:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Menus.java:231:	Avoid variables with short names like e
+src/com/trucktracker/admin/Menus.java:231:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Menus.java:231:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Menus.java:233:	Local variable 'trucks' could be declared final
+src/com/trucktracker/admin/Menus.java:234:	Local variable 'mainpanel' could be declared final
+src/com/trucktracker/admin/Menus.java:235:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Menus.java:256:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:23:	The class 'Truckers' has a Cyclomatic Complexity of 10 (Highest = 16).
+src/com/trucktracker/admin/Truckers.java:23:	The class 'Truckers' has a Modified Cyclomatic Complexity of 9 (Highest = 16).
+src/com/trucktracker/admin/Truckers.java:23:	The class 'Truckers' has a Standard Cyclomatic Complexity of 9 (Highest = 16).
+src/com/trucktracker/admin/Truckers.java:23:	headerCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:25:	Avoid using redundant field initializer for 'con'
+src/com/trucktracker/admin/Truckers.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Truckers.java:25:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Truckers.java:25:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:26:	Avoid using redundant field initializer for 'st'
+src/com/trucktracker/admin/Truckers.java:26:	Avoid variables with short names like st
+src/com/trucktracker/admin/Truckers.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Truckers.java:26:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Truckers.java:26:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:27:	Avoid using redundant field initializer for 'rs'
+src/com/trucktracker/admin/Truckers.java:27:	Avoid variables with short names like rs
+src/com/trucktracker/admin/Truckers.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Truckers.java:27:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Truckers.java:27:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:29:	Avoid variables with short names like ds
+src/com/trucktracker/admin/Truckers.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Truckers.java:29:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Truckers.java:29:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:31:	Avoid using implementation types like 'Vector'; use the interface instead
+src/com/trucktracker/admin/Truckers.java:31:	Consider replacing this Vector with the newer java.util.List
+src/com/trucktracker/admin/Truckers.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Truckers.java:31:	Use ArrayList instead of Vector
+src/com/trucktracker/admin/Truckers.java:31:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Truckers.java:31:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:32:	Avoid using implementation types like 'Vector'; use the interface instead
+src/com/trucktracker/admin/Truckers.java:32:	Consider replacing this Vector with the newer java.util.List
+src/com/trucktracker/admin/Truckers.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Truckers.java:32:	Use ArrayList instead of Vector
+src/com/trucktracker/admin/Truckers.java:32:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Truckers.java:32:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:33:	Avoid using redundant field initializer for 'columns'
+src/com/trucktracker/admin/Truckers.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Truckers.java:33:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Truckers.java:33:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:35:	Avoid really long methods.
+src/com/trucktracker/admin/Truckers.java:35:	The method 'setTruckers' has a Cyclomatic Complexity of 16.
+src/com/trucktracker/admin/Truckers.java:35:	The method 'setTruckers' has a Modified Cyclomatic Complexity of 16.
+src/com/trucktracker/admin/Truckers.java:35:	The method 'setTruckers' has a Standard Cyclomatic Complexity of 16.
+src/com/trucktracker/admin/Truckers.java:35:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:39:	Local variable 'sql' could be declared final
+src/com/trucktracker/admin/Truckers.java:46:	Local variable 'rsmd' could be declared final
+src/com/trucktracker/admin/Truckers.java:47:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:51:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:57:	Avoid instantiating new objects inside loops
+src/com/trucktracker/admin/Truckers.java:57:	Consider replacing this Vector with the newer java.util.List
+src/com/trucktracker/admin/Truckers.java:57:	Local variable 'row' could be declared final
+src/com/trucktracker/admin/Truckers.java:57:	Use ArrayList instead of Vector
+src/com/trucktracker/admin/Truckers.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:71:	System.out.println is used
+src/com/trucktracker/admin/Truckers.java:77:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Truckers.java:78:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Truckers.java:79:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Truckers.java:83:	System.out.println is used
+src/com/trucktracker/admin/Truckers.java:89:	Found 'DU'-anomaly for variable 'model' (lines '89'-'149').
+src/com/trucktracker/admin/Truckers.java:89:	Found 'DU'-anomaly for variable 'model' (lines '89'-'149').
+src/com/trucktracker/admin/Truckers.java:89:	Found 'DU'-anomaly for variable 'model' (lines '89'-'149').
+src/com/trucktracker/admin/Truckers.java:89:	Found 'DU'-anomaly for variable 'model' (lines '89'-'149').
+src/com/trucktracker/admin/Truckers.java:89:	Found 'DU'-anomaly for variable 'model' (lines '89'-'149').
+src/com/trucktracker/admin/Truckers.java:91:	Parameter 'column' is not assigned and could be declared final
+src/com/trucktracker/admin/Truckers.java:91:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:95:	Avoid variables with short names like o
+src/com/trucktracker/admin/Truckers.java:98:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:108:	Avoid variables with short names like e
+src/com/trucktracker/admin/Truckers.java:108:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Truckers.java:108:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:118:	Local variable 'results' could be declared final
+src/com/trucktracker/admin/Truckers.java:120:	Local variable 'table' could be declared final
+src/com/trucktracker/admin/Truckers.java:121:	Local variable 'scrollPane' could be declared final
+src/com/trucktracker/admin/Truckers.java:124:	Local variable 'bAddTrucker' could be declared final
+src/com/trucktracker/admin/Truckers.java:128:	Avoid variables with short names like e
+src/com/trucktracker/admin/Truckers.java:128:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Truckers.java:128:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:136:	Local variable 'bEditTrucker' could be declared final
+src/com/trucktracker/admin/Truckers.java:140:	Avoid variables with short names like e
+src/com/trucktracker/admin/Truckers.java:140:	Document empty method
+src/com/trucktracker/admin/Truckers.java:140:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Truckers.java:140:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:151:	The method 'addTrucker' has a Cyclomatic Complexity of 12.
+src/com/trucktracker/admin/Truckers.java:151:	The method 'addTrucker' has a Modified Cyclomatic Complexity of 10.
+src/com/trucktracker/admin/Truckers.java:151:	The method 'addTrucker' has a Standard Cyclomatic Complexity of 10.
+src/com/trucktracker/admin/Truckers.java:151:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:153:	Local variable 'fAddTrucker' could be declared final
+src/com/trucktracker/admin/Truckers.java:154:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:155:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:156:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:157:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:157:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:173:	Avoid variables with short names like e
+src/com/trucktracker/admin/Truckers.java:173:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Truckers.java:173:	The method 'actionPerformed' has a Cyclomatic Complexity of 11.
+src/com/trucktracker/admin/Truckers.java:173:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Truckers.java:175:	Avoid if (x != y) ..; else ..;
+src/com/trucktracker/admin/Truckers.java:175:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:175:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:175:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:175:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:175:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:175:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:177:	Local variable 'fName' could be declared final
+src/com/trucktracker/admin/Truckers.java:178:	Local variable 'lName' could be declared final
+src/com/trucktracker/admin/Truckers.java:179:	Local variable 'email' could be declared final
+src/com/trucktracker/admin/Truckers.java:183:	Local variable 'sql' could be declared final
+src/com/trucktracker/admin/Truckers.java:188:	Avoid variables with short names like rs
+src/com/trucktracker/admin/Truckers.java:188:	Found 'DD'-anomaly for variable 'rs' (lines '188'-'193').
+src/com/trucktracker/admin/Truckers.java:188:	Found 'DD'-anomaly for variable 'rs' (lines '188'-'193').
+src/com/trucktracker/admin/Truckers.java:190:	Local variable 'lastRow' could be declared final
+src/com/trucktracker/admin/Truckers.java:195:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:196:	Consider replacing this Vector with the newer java.util.List
+src/com/trucktracker/admin/Truckers.java:196:	Local variable 'newRow' could be declared final
+src/com/trucktracker/admin/Truckers.java:196:	Use ArrayList instead of Vector
+src/com/trucktracker/admin/Truckers.java:200:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:211:	Avoid printStackTrace(); use a logger call instead.
+src/com/trucktracker/admin/Truckers.java:211:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:216:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Truckers.java:217:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Truckers.java:218:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Truckers.java:222:	System.out.println is used
+src/com/trucktracker/admin/Truckers.java:235:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:235:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:236:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:236:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:237:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:237:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:238:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:238:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:239:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:239:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:240:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:240:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:241:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:241:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:242:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Truckers.java:242:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:244:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Truckers.java:250:	Avoid unnecessary constructors - the compiler will generate these for you
+src/com/trucktracker/admin/Truckers.java:250:	Document empty constructor
+src/com/trucktracker/admin/Truckers.java:250:	It is a good practice to call super() in a constructor
+src/com/trucktracker/admin/Truckers.java:250:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:1:	Possible God class (WMC=50, ATFD=56, TCC=0.2857142857142857)
+src/com/trucktracker/admin/Trucks.java:6:	Avoid unused imports such as 'com.mysql.jdbc.PreparedStatement'
+src/com/trucktracker/admin/Trucks.java:21:	The class 'Trucks' has a Cyclomatic Complexity of 10 (Highest = 16).
+src/com/trucktracker/admin/Trucks.java:21:	The class 'Trucks' has a Modified Cyclomatic Complexity of 8 (Highest = 16).
+src/com/trucktracker/admin/Trucks.java:21:	The class 'Trucks' has a Standard Cyclomatic Complexity of 8 (Highest = 16).
+src/com/trucktracker/admin/Trucks.java:21:	headerCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:23:	Avoid using redundant field initializer for 'con'
+src/com/trucktracker/admin/Trucks.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Trucks.java:23:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Trucks.java:23:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:24:	Avoid using redundant field initializer for 'st'
+src/com/trucktracker/admin/Trucks.java:24:	Avoid variables with short names like st
+src/com/trucktracker/admin/Trucks.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Trucks.java:24:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Trucks.java:24:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:25:	Avoid using redundant field initializer for 'rs'
+src/com/trucktracker/admin/Trucks.java:25:	Avoid variables with short names like rs
+src/com/trucktracker/admin/Trucks.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Trucks.java:25:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Trucks.java:25:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:27:	Avoid variables with short names like ds
+src/com/trucktracker/admin/Trucks.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Trucks.java:27:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Trucks.java:27:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:29:	Avoid using implementation types like 'Vector'; use the interface instead
+src/com/trucktracker/admin/Trucks.java:29:	Consider replacing this Vector with the newer java.util.List
+src/com/trucktracker/admin/Trucks.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Trucks.java:29:	Use ArrayList instead of Vector
+src/com/trucktracker/admin/Trucks.java:29:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Trucks.java:29:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:30:	Avoid using implementation types like 'Vector'; use the interface instead
+src/com/trucktracker/admin/Trucks.java:30:	Consider replacing this Vector with the newer java.util.List
+src/com/trucktracker/admin/Trucks.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Trucks.java:30:	Use ArrayList instead of Vector
+src/com/trucktracker/admin/Trucks.java:30:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Trucks.java:30:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:31:	Avoid using redundant field initializer for 'columns'
+src/com/trucktracker/admin/Trucks.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/admin/Trucks.java:31:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/admin/Trucks.java:31:	fieldCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:33:	Avoid really long methods.
+src/com/trucktracker/admin/Trucks.java:33:	The method 'setTrucks' has a Cyclomatic Complexity of 16.
+src/com/trucktracker/admin/Trucks.java:33:	The method 'setTrucks' has a Modified Cyclomatic Complexity of 16.
+src/com/trucktracker/admin/Trucks.java:33:	The method 'setTrucks' has a Standard Cyclomatic Complexity of 16.
+src/com/trucktracker/admin/Trucks.java:33:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:37:	Local variable 'sql' could be declared final
+src/com/trucktracker/admin/Trucks.java:44:	Local variable 'rsmd' could be declared final
+src/com/trucktracker/admin/Trucks.java:45:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:49:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:55:	Avoid instantiating new objects inside loops
+src/com/trucktracker/admin/Trucks.java:55:	Consider replacing this Vector with the newer java.util.List
+src/com/trucktracker/admin/Trucks.java:55:	Local variable 'row' could be declared final
+src/com/trucktracker/admin/Trucks.java:55:	Use ArrayList instead of Vector
+src/com/trucktracker/admin/Trucks.java:59:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:69:	System.out.println is used
+src/com/trucktracker/admin/Trucks.java:75:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:76:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:77:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:81:	System.out.println is used
+src/com/trucktracker/admin/Trucks.java:87:	Found 'DU'-anomaly for variable 'model' (lines '87'-'146').
+src/com/trucktracker/admin/Trucks.java:87:	Found 'DU'-anomaly for variable 'model' (lines '87'-'146').
+src/com/trucktracker/admin/Trucks.java:87:	Found 'DU'-anomaly for variable 'model' (lines '87'-'146').
+src/com/trucktracker/admin/Trucks.java:87:	Found 'DU'-anomaly for variable 'model' (lines '87'-'146').
+src/com/trucktracker/admin/Trucks.java:87:	Found 'DU'-anomaly for variable 'model' (lines '87'-'146').
+src/com/trucktracker/admin/Trucks.java:89:	Parameter 'column' is not assigned and could be declared final
+src/com/trucktracker/admin/Trucks.java:89:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:93:	Avoid variables with short names like o
+src/com/trucktracker/admin/Trucks.java:96:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:106:	Avoid variables with short names like e
+src/com/trucktracker/admin/Trucks.java:106:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Trucks.java:106:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:115:	Local variable 'results' could be declared final
+src/com/trucktracker/admin/Trucks.java:117:	Local variable 'table' could be declared final
+src/com/trucktracker/admin/Trucks.java:118:	Local variable 'scrollPane' could be declared final
+src/com/trucktracker/admin/Trucks.java:121:	Local variable 'bAddTruck' could be declared final
+src/com/trucktracker/admin/Trucks.java:125:	Avoid variables with short names like e
+src/com/trucktracker/admin/Trucks.java:125:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Trucks.java:125:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:133:	Local variable 'bEditTruck' could be declared final
+src/com/trucktracker/admin/Trucks.java:137:	Avoid variables with short names like e
+src/com/trucktracker/admin/Trucks.java:137:	Document empty method
+src/com/trucktracker/admin/Trucks.java:137:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Trucks.java:137:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:148:	Avoid really long methods.
+src/com/trucktracker/admin/Trucks.java:148:	The method 'addTruck' has a Cyclomatic Complexity of 14.
+src/com/trucktracker/admin/Trucks.java:148:	The method 'addTruck' has a Modified Cyclomatic Complexity of 10.
+src/com/trucktracker/admin/Trucks.java:148:	The method 'addTruck' has a Standard Cyclomatic Complexity of 10.
+src/com/trucktracker/admin/Trucks.java:148:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:150:	Local variable 'fAddTruck' could be declared final
+src/com/trucktracker/admin/Trucks.java:151:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:152:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:153:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:154:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:154:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:176:	Avoid variables with short names like e
+src/com/trucktracker/admin/Trucks.java:176:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/admin/Trucks.java:176:	The method 'actionPerformed' has a Cyclomatic Complexity of 13.
+src/com/trucktracker/admin/Trucks.java:176:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:178:	Avoid if (x != y) ..; else ..;
+src/com/trucktracker/admin/Trucks.java:178:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:178:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:178:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:178:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:178:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:178:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:178:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:178:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:178:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:178:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:180:	Local variable 'brand' could be declared final
+src/com/trucktracker/admin/Trucks.java:181:	Local variable 'model' could be declared final
+src/com/trucktracker/admin/Trucks.java:182:	Local variable 'color' could be declared final
+src/com/trucktracker/admin/Trucks.java:183:	Avoid variables with short names like cc
+src/com/trucktracker/admin/Trucks.java:183:	Local variable 'cc' could be declared final
+src/com/trucktracker/admin/Trucks.java:184:	Local variable 'year' could be declared final
+src/com/trucktracker/admin/Trucks.java:188:	Local variable 'sql' could be declared final
+src/com/trucktracker/admin/Trucks.java:188:	The String literal "','" appears 4 times in this file; the first occurrence is on line 188
+src/com/trucktracker/admin/Trucks.java:193:	Avoid variables with short names like rs
+src/com/trucktracker/admin/Trucks.java:193:	Found 'DD'-anomaly for variable 'rs' (lines '193'-'198').
+src/com/trucktracker/admin/Trucks.java:193:	Found 'DD'-anomaly for variable 'rs' (lines '193'-'198').
+src/com/trucktracker/admin/Trucks.java:195:	Local variable 'lastRow' could be declared final
+src/com/trucktracker/admin/Trucks.java:200:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:201:	Consider replacing this Vector with the newer java.util.List
+src/com/trucktracker/admin/Trucks.java:201:	Local variable 'newRow' could be declared final
+src/com/trucktracker/admin/Trucks.java:201:	Use ArrayList instead of Vector
+src/com/trucktracker/admin/Trucks.java:205:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:216:	Avoid printStackTrace(); use a logger call instead.
+src/com/trucktracker/admin/Trucks.java:216:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:221:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:222:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:223:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:227:	System.out.println is used
+src/com/trucktracker/admin/Trucks.java:240:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:240:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:241:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:241:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:242:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:242:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:243:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:243:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:244:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:244:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:245:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:245:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:246:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:246:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:247:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:247:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:248:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:248:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:249:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:249:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:250:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:250:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:251:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:251:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:253:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:258:	The method 'updateTruck' has a Cyclomatic Complexity of 13.
+src/com/trucktracker/admin/Trucks.java:258:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:261:	Avoid if (x != y) ..; else ..;
+src/com/trucktracker/admin/Trucks.java:261:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:261:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:261:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:261:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:261:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:261:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:261:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:261:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:261:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:261:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/admin/Trucks.java:263:	Local variable 'brand' could be declared final
+src/com/trucktracker/admin/Trucks.java:264:	Local variable 'model' could be declared final
+src/com/trucktracker/admin/Trucks.java:265:	Local variable 'color' could be declared final
+src/com/trucktracker/admin/Trucks.java:266:	Avoid variables with short names like cc
+src/com/trucktracker/admin/Trucks.java:266:	Local variable 'cc' could be declared final
+src/com/trucktracker/admin/Trucks.java:267:	Local variable 'year' could be declared final
+src/com/trucktracker/admin/Trucks.java:271:	Local variable 'sql' could be declared final
+src/com/trucktracker/admin/Trucks.java:276:	Avoid variables with short names like rs
+src/com/trucktracker/admin/Trucks.java:276:	Found 'DD'-anomaly for variable 'rs' (lines '276'-'281').
+src/com/trucktracker/admin/Trucks.java:278:	Local variable 'lastRow' could be declared final
+src/com/trucktracker/admin/Trucks.java:283:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:284:	Consider replacing this Vector with the newer java.util.List
+src/com/trucktracker/admin/Trucks.java:284:	Local variable 'newRow' could be declared final
+src/com/trucktracker/admin/Trucks.java:284:	Use ArrayList instead of Vector
+src/com/trucktracker/admin/Trucks.java:288:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:299:	Avoid printStackTrace(); use a logger call instead.
+src/com/trucktracker/admin/Trucks.java:299:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:304:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:305:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:306:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:310:	System.out.println is used
+src/com/trucktracker/admin/Trucks.java:324:	The method 'truckStatus' has a Cyclomatic Complexity of 12.
+src/com/trucktracker/admin/Trucks.java:324:	The method 'truckStatus' has a Modified Cyclomatic Complexity of 12.
+src/com/trucktracker/admin/Trucks.java:324:	The method 'truckStatus' has a Standard Cyclomatic Complexity of 12.
+src/com/trucktracker/admin/Trucks.java:324:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:326:	Avoid variables with short names like ds
+src/com/trucktracker/admin/Trucks.java:326:	Found 'DD'-anomaly for variable 'ds' (lines '326'-'327').
+src/com/trucktracker/admin/Trucks.java:326:	Found 'DD'-anomaly for variable 'ds' (lines '326'-'327').
+src/com/trucktracker/admin/Trucks.java:330:	Local variable 'sql' could be declared final
+src/com/trucktracker/admin/Trucks.java:334:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:337:	Local variable 'rsmd' could be declared final
+src/com/trucktracker/admin/Trucks.java:338:	Local variable 'columns' could be declared final
+src/com/trucktracker/admin/Trucks.java:338:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:342:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:348:	Avoid instantiating new objects inside loops
+src/com/trucktracker/admin/Trucks.java:348:	Consider replacing this Vector with the newer java.util.List
+src/com/trucktracker/admin/Trucks.java:348:	Local variable 'row' could be declared final
+src/com/trucktracker/admin/Trucks.java:348:	Use ArrayList instead of Vector
+src/com/trucktracker/admin/Trucks.java:352:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:362:	System.out.println is used
+src/com/trucktracker/admin/Trucks.java:368:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:369:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:370:	Avoid using if statements without curly braces
+src/com/trucktracker/admin/Trucks.java:374:	System.out.println is used
+src/com/trucktracker/admin/Trucks.java:380:	Found 'DU'-anomaly for variable 'model' (lines '380'-'404').
+src/com/trucktracker/admin/Trucks.java:380:	Found 'DU'-anomaly for variable 'model' (lines '380'-'404').
+src/com/trucktracker/admin/Trucks.java:380:	Local variable 'model' could be declared final
+src/com/trucktracker/admin/Trucks.java:382:	Parameter 'column' is not assigned and could be declared final
+src/com/trucktracker/admin/Trucks.java:382:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:386:	Avoid variables with short names like o
+src/com/trucktracker/admin/Trucks.java:389:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/admin/Trucks.java:397:	Local variable 'results' could be declared final
+src/com/trucktracker/admin/Trucks.java:398:	Local variable 'table' could be declared final
+src/com/trucktracker/admin/Trucks.java:399:	Local variable 'scrollPane' could be declared final
+src/com/trucktracker/admin/Trucks.java:407:	Document empty method
+src/com/trucktracker/admin/Trucks.java:407:	publicMethodCommentRequirement Required
+src/com/trucktracker/admin/Trucks.java:413:	Avoid unnecessary constructors - the compiler will generate these for you
+src/com/trucktracker/admin/Trucks.java:413:	Document empty constructor
+src/com/trucktracker/admin/Trucks.java:413:	It is a good practice to call super() in a constructor
+src/com/trucktracker/admin/Trucks.java:413:	publicMethodCommentRequirement Required
+src/com/trucktracker/jdbc/datasource/DataSourceTruckTracker.java:10:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/trucktracker/jdbc/datasource/DataSourceTruckTracker.java:10:	headerCommentRequirement Required
+src/com/trucktracker/jdbc/datasource/DataSourceTruckTracker.java:12:	publicMethodCommentRequirement Required
+src/com/trucktracker/jdbc/datasource/DataSourceTruckTracker.java:14:	Local variable 'props' could be declared final
+src/com/trucktracker/jdbc/datasource/DataSourceTruckTracker.java:15:	Found 'DD'-anomaly for variable 'fis' (lines '15'-'20').
+src/com/trucktracker/jdbc/datasource/DataSourceTruckTracker.java:16:	Found 'DD'-anomaly for variable 'mysqlDS' (lines '16'-'22').
+src/com/trucktracker/jdbc/datasource/DataSourceTruckTracker.java:29:	Avoid printStackTrace(); use a logger call instead.
+src/com/trucktracker/junit/LoginTest.java:11:	headerCommentRequirement Required
+src/com/trucktracker/junit/LoginTest.java:13:	JUnit 4 tests that execute tests should use the @Test annotation
+src/com/trucktracker/junit/LoginTest.java:14:	publicMethodCommentRequirement Required
+src/com/trucktracker/junit/LoginTest.java:15:	System.out.println is used
+src/com/trucktracker/junit/LoginTest.java:18:	JUnit 4 tests that execute tests should use the @Test annotation
+src/com/trucktracker/junit/LoginTest.java:19:	publicMethodCommentRequirement Required
+src/com/trucktracker/junit/LoginTest.java:20:	System.out.println is used
+src/com/trucktracker/junit/LoginTest.java:24:	JUnit tests should not contain more than 1 assert(s).
+src/com/trucktracker/junit/LoginTest.java:24:	publicMethodCommentRequirement Required
+src/com/trucktracker/junit/LoginTest.java:25:	Local variable 'toTest' could be declared final
+src/com/trucktracker/junit/LoginTest.java:26:	Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x).
+src/com/trucktracker/junit/LoginTest.java:27:	Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x).
+src/com/trucktracker/www/Gui.java:12:	Avoid short class names like Gui
+src/com/trucktracker/www/Gui.java:12:	Too many fields
+src/com/trucktracker/www/Gui.java:12:	headerCommentRequirement Required
+src/com/trucktracker/www/Gui.java:14:	Avoid variables with short names like f
+src/com/trucktracker/www/Gui.java:14:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Gui.java:15:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Gui.java:15:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Gui.java:16:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Gui.java:16:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Gui.java:17:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Gui.java:17:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Gui.java:18:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Gui.java:18:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:19:	Avoid variables with short names like b
+src/com/trucktracker/www/Gui.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Gui.java:19:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Gui.java:19:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Gui.java:20:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Gui.java:20:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:21:	Avoid variables with short names like p
+src/com/trucktracker/www/Gui.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Gui.java:21:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Gui.java:21:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:22:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:23:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:24:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:25:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:26:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:27:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:28:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:29:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:30:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:31:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:32:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:33:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:34:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:35:	Avoid excessively long variable names like lAddTruckerFirstName
+src/com/trucktracker/www/Gui.java:35:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:36:	Avoid excessively long variable names like lAddTruckerLastName
+src/com/trucktracker/www/Gui.java:36:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:37:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:38:	Avoid excessively long variable names like tAddTruckerFirstName
+src/com/trucktracker/www/Gui.java:38:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:39:	Avoid excessively long variable names like tAddTruckerLastName
+src/com/trucktracker/www/Gui.java:39:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:40:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:41:	fieldCommentRequirement Required
+src/com/trucktracker/www/Gui.java:44:	publicMethodCommentRequirement Required
+src/com/trucktracker/www/Gui.java:69:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Gui.java:75:	Avoid unnecessary constructors - the compiler will generate these for you
+src/com/trucktracker/www/Gui.java:75:	Document empty constructor
+src/com/trucktracker/www/Gui.java:75:	publicMethodCommentRequirement Required
+src/com/trucktracker/www/Gui.java:81:	publicMethodCommentRequirement Required
+src/com/trucktracker/www/Gui.java:87:	Avoid variables with short names like f
+src/com/trucktracker/www/Gui.java:87:	Parameter 'f' is not assigned and could be declared final
+src/com/trucktracker/www/Gui.java:87:	publicMethodCommentRequirement Required
+src/com/trucktracker/www/Login.java:10:	Avoid unused imports such as 'com.trucktracker.admin.Truckers'
+src/com/trucktracker/www/Login.java:11:	Avoid unused imports such as 'com.trucktracker.admin.Trucks'
+src/com/trucktracker/www/Login.java:19:	The class 'Login' has a Cyclomatic Complexity of 5 (Highest = 10).
+src/com/trucktracker/www/Login.java:19:	The class 'Login' has a Modified Cyclomatic Complexity of 4 (Highest = 10).
+src/com/trucktracker/www/Login.java:19:	The class 'Login' has a Standard Cyclomatic Complexity of 5 (Highest = 10).
+src/com/trucktracker/www/Login.java:19:	headerCommentRequirement Required
+src/com/trucktracker/www/Login.java:21:	Avoid using redundant field initializer for 'con'
+src/com/trucktracker/www/Login.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:21:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Login.java:21:	fieldCommentRequirement Required
+src/com/trucktracker/www/Login.java:22:	Avoid using redundant field initializer for 'st'
+src/com/trucktracker/www/Login.java:22:	Avoid variables with short names like st
+src/com/trucktracker/www/Login.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:22:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Login.java:22:	fieldCommentRequirement Required
+src/com/trucktracker/www/Login.java:23:	Avoid using redundant field initializer for 'rs'
+src/com/trucktracker/www/Login.java:23:	Avoid variables with short names like rs
+src/com/trucktracker/www/Login.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:23:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Login.java:23:	fieldCommentRequirement Required
+src/com/trucktracker/www/Login.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:25:	fieldCommentRequirement Required
+src/com/trucktracker/www/Login.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:26:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Login.java:26:	fieldCommentRequirement Required
+src/com/trucktracker/www/Login.java:27:	Avoid variables with short names like id
+src/com/trucktracker/www/Login.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/trucktracker/www/Login.java:27:	Use explicit scoping instead of the default package private level
+src/com/trucktracker/www/Login.java:27:	fieldCommentRequirement Required
+src/com/trucktracker/www/Login.java:29:	publicMethodCommentRequirement Required
+src/com/trucktracker/www/Login.java:33:	Avoid variables with short names like e
+src/com/trucktracker/www/Login.java:33:	Parameter 'e' is not assigned and could be declared final
+src/com/trucktracker/www/Login.java:33:	publicMethodCommentRequirement Required
+src/com/trucktracker/www/Login.java:35:	Local variable 'user' could be declared final
+src/com/trucktracker/www/Login.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:36:	Local variable 'pass' could be declared final
+src/com/trucktracker/www/Login.java:46:	Parameter 'pass' is not assigned and could be declared final
+src/com/trucktracker/www/Login.java:46:	Parameter 'user' is not assigned and could be declared final
+src/com/trucktracker/www/Login.java:46:	The method 'checkLogin' has a Cyclomatic Complexity of 10.
+src/com/trucktracker/www/Login.java:46:	The method 'checkLogin' has a Modified Cyclomatic Complexity of 10.
+src/com/trucktracker/www/Login.java:46:	The method 'checkLogin' has a Standard Cyclomatic Complexity of 10.
+src/com/trucktracker/www/Login.java:46:	publicMethodCommentRequirement Required
+src/com/trucktracker/www/Login.java:48:	Avoid variables with short names like ds
+src/com/trucktracker/www/Login.java:48:	Found 'DD'-anomaly for variable 'ds' (lines '48'-'49').
+src/com/trucktracker/www/Login.java:53:	Local variable 'sql' could be declared final
+src/com/trucktracker/www/Login.java:56:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/www/Login.java:60:	Found 'DD'-anomaly for variable 'cusers' (lines '60'-'64').
+src/com/trucktracker/www/Login.java:64:	Found 'DD'-anomaly for variable 'cusers' (lines '64'-'64').
+src/com/trucktracker/www/Login.java:79:	A method should have only one exit point, and that should be the last statement in the method
+src/com/trucktracker/www/Login.java:81:	Avoid using Literals in Conditional Statements
+src/com/trucktracker/www/Login.java:86:	A method should have only one exit point, and that should be the last statement in the method
+src/com/trucktracker/www/Login.java:88:	Avoid using Literals in Conditional Statements
+src/com/trucktracker/www/Login.java:91:	A method should have only one exit point, and that should be the last statement in the method
+src/com/trucktracker/www/Login.java:95:	A method should have only one exit point, and that should be the last statement in the method
+src/com/trucktracker/www/Login.java:100:	Avoid printStackTrace(); use a logger call instead.
+src/com/trucktracker/www/Login.java:100:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/www/Login.java:101:	A method should have only one exit point, and that should be the last statement in the method
+src/com/trucktracker/www/Login.java:107:	Avoid using if statements without curly braces
+src/com/trucktracker/www/Login.java:108:	Avoid using if statements without curly braces
+src/com/trucktracker/www/Login.java:109:	Avoid using if statements without curly braces
+src/com/trucktracker/www/Login.java:113:	Avoid printStackTrace(); use a logger call instead.
+src/com/trucktracker/www/Login.java:113:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/www/Login.java:114:	Avoid returning from a finally block
+src/com/trucktracker/www/Login.java:121:	publicMethodCommentRequirement Required
+src/com/trucktracker/www/Login.java:123:	Found 'DU'-anomaly for variable 'menu' (lines '123'-'185').
+src/com/trucktracker/www/Login.java:123:	Local variable 'menu' could be declared final
+src/com/trucktracker/www/Login.java:125:	Found 'DD'-anomaly for variable 'wLevel' (lines '125'-'141').
+src/com/trucktracker/www/Login.java:125:	Found 'DD'-anomaly for variable 'wLevel' (lines '125'-'157').
+src/com/trucktracker/www/Login.java:125:	Found 'DD'-anomaly for variable 'wLevel' (lines '125'-'173').
+src/com/trucktracker/www/Login.java:125:	Found 'DD'-anomaly for variable 'wLevel' (lines '125'-'179').
+src/com/trucktracker/www/Login.java:127:	Switch statements should have a default label
+src/com/trucktracker/www/Login.java:131:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:132:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:132:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:133:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:134:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:135:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:136:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:137:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:138:	Local variable 'menuPanel' could be declared final
+src/com/trucktracker/www/Login.java:138:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/www/Login.java:139:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/www/Login.java:140:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:140:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:147:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:148:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:148:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:149:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:150:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:151:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:152:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:153:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:154:	Local variable 'modMenuPanel' could be declared final
+src/com/trucktracker/www/Login.java:154:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/www/Login.java:155:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/www/Login.java:156:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:156:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:163:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:164:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:164:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:165:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:166:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:167:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:168:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:169:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:170:	Local variable 'staffMenuPanel' could be declared final
+src/com/trucktracker/www/Login.java:170:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/www/Login.java:171:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/www/Login.java:172:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:172:	Potential violation of Law of Demeter (method chain calls)
+src/com/trucktracker/www/Login.java:178:	Potential violation of Law of Demeter (object not created locally)
+src/com/trucktracker/www/Login.java:187:	It is a good practice to call super() in a constructor
+src/com/trucktracker/www/Login.java:187:	publicMethodCommentRequirement Required
+src/com/trucktracker/www/Login.java:189:	Overridable method 'loginSetup' called during object construction
+src/com/trucktracker/www/TruckTracker.java:3:	Avoid unused imports such as 'com.trucktracker.admin.Trucks'
+src/com/trucktracker/www/TruckTracker.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/trucktracker/www/TruckTracker.java:5:	headerCommentRequirement Required
+src/com/trucktracker/www/TruckTracker.java:7:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/com/trucktracker/www/TruckTracker.java:7:	Parameter 'args' is not assigned and could be declared final
+src/com/trucktracker/www/TruckTracker.java:7:	publicMethodCommentRequirement Required
